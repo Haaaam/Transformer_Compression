@@ -3,10 +3,10 @@ Sota Transformer Pruning 연구들의 open source를 저의 연구에 맞게 변
 
 📦 Implemented
 
-** Pruning on MHA **: 
+**Pruning on MHA**: 
 - CoFi
 - DynaBERT
 
-** Retraining Pruning **: 
+**Retraining Pruning**: 
 - DynaBERT
 - EBERT
