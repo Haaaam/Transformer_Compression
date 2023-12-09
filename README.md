@@ -1,5 +1,5 @@
 # Transformer_Pruning
-Sota Transformer Pruning 연구들의 open source를 저의 연구에 맞게 변형하고 이해하는 것을 목표로 합니다.
+My goal is to adapt and understand open-source research on state-of-the-art(SOTA) Transformer pruning for my own research purposes.
 
 📦 Implemented
 
