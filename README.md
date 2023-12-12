@@ -1,5 +1,5 @@
 # Transformer_Pruning
-My goal is to adapt and understand open-source research on state-of-the-art(SOTA) Transformer pruning for my own research purposes.
+My goal is to adapt and understand open-source research on state-of-the-art(SOTA) Transformer compressing for my own research purposes.
 
 📦 Implemented
 
